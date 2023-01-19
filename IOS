@@ -1,0 +1,43 @@
+import UIKit
+
+var greeting = "Hello, playground"
+var i = 5;
+print (i)
+
+print("hi", 10,10.5)
+var name = "Abc"
+print("Hello,\(name)!")
+
+var age = 22;
+print("My age is \(age) and in the next \(age) years it would be \(age*2).")
+
+print ("""
+       I
+       am
+       sowjanya
+ """)
+
+print ("""
+        Hello
+        world
+""")
+
+//Explict declaration of data types
+var str:String = "This is a playground";
+print (str)
+
+let welcomeMessage : String = "Hello!"
+print(welcomeMessage , "All" ,10)
+
+print ("welcome to shift programming ")
+print("fall 2022")
+print("*******")
+print("welcome to shift programming" , terminator : "-")
+print("fall 2022")
+
+
+print("the list of nmbers are")
+print(1,2,3,4)
+print("the new pattern is")
+print(1,2,3,4,5 ,separator : "-")
+
